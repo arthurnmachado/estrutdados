@@ -1,7 +1,7 @@
 /* Estruturas de Dados - Trabalho pratico
 
 Professor: Diego P. Rubert
-Aluno(s): Arthur Nagase Machado e
+Aluno(s): Arthur Nagase Machado
 
 */
 
